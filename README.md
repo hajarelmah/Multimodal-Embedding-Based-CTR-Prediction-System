@@ -339,4 +339,4 @@ To use the dataset:
 
 ---
 
-**⭐ If you find this project helpful, please consider giving it a star!**
+**⭐ Thank you**
